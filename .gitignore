@@ -1,0 +1,18 @@
+# Secrets & local config
+.env
+*.env
+
+# Runtime / personal data
+sent_log.json
+
+# Personal files (don't upload resume to public repo)
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
