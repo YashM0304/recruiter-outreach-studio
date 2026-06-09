@@ -75,7 +75,7 @@ def compose_email(to_email, rec_name, company):
     subject = "Cybersecurity Full-Time Opportunities – Yash Malpathak | UW MS '26"
     body    = f"""Hi {first},
 
-I'm Yash, an M.S. Cybersecurity Engineering student at the University of Washington (graduating 2026), reaching out about full-time security opportunities at {company}. I can work on OPT for 3 years post-graduation and will require visa sponsorship only after OPT ends.
+I hope you are doing well. I'm Yash, an M.S. Cybersecurity Engineering student at the University of Washington (graduating 2026), reaching out about full-time security opportunities at {company}. I can work on OPT for 3 years post-graduation and will require visa sponsorship only after OPT ends.
 
 A few highlights:
 - Cybersecurity Engineering Intern, Secure AIs Corporation (Summer 2025) — built a Python PII detection pipeline (~80% accuracy) and ran 200+ adversarial prompt-injection tests, reducing successful exploits by ~60%.
