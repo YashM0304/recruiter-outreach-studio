@@ -16,7 +16,7 @@ from pathlib import Path
 # ── CONFIG — update paths if needed ─────────────────────────────────────────
 EMAIL_FROM     = "yash.m.malpathak@gmail.com"
 EMAIL_PASSWORD = "ubwu kzer xoba qlde"          # Gmail App Password
-RESUME_FILE    = "YMM_Technical_Resume_Final_C.pdf"  # place in same folder as app.py
+RESUME_FILE    = "YMM_Technical_Resume_G.pdf"  # place in same folder as app.py
 DAILY_LIMIT    = 30
 LOG_FILE       = "sent_log.json"
 
@@ -80,10 +80,10 @@ I hope you are doing well. I'm Yash, an M.S. Cybersecurity Engineering student a
 A few highlights:
 - Cybersecurity Engineering Intern, Secure AIs Corporation (Summer 2025) — built a Python PII detection pipeline (~80% accuracy) and ran 200+ adversarial prompt-injection tests, reducing successful exploits by ~60%.
 - Master's thesis at UW on enhancing technology fingerprinting using human-generated OSINT (job postings, LinkedIn, GitHub) as a complement to tool-based reconnaissance — demonstrated a 94.1% average coverage gain over Nmap/WhatWeb-only baselines across 12 organizations.
-- ISO 27001:2022 Certified Lead Implementer & Lead Auditor | ISO 42001:2023 AI Systems Lead Implementer — hands-on across GRC, cloud security (AWS/GCP), and DevSecOps pipelines.
+- ISO 27001:2022 Certified Lead Implementer & Lead Auditor | ISO 42001:2023 AI Management Systems Lead Implementer — hands-on across GRC, cloud security (AWS/GCP), and DevSecOps pipelines.
 - Academic security research: C++ malware development and research, Linux kernel Netfilter firewall, stack-based buffer overflow exploitation, Ethereum re-entrancy attacks.
 
-I've attached my resume. If there are open full-time security roles — defensive, offensive, GRC, or cloud — I'd love a quick 15-minute chat, or happy to apply through the official portal if you can point me in the right direction.
+I've attached my resume. If there are open full-time security roles in defensive, offensive, GRC, or cloud; I'd love a quick  chat, or happy to apply through the official portal if you can point me in the right direction.
 
 LinkedIn:  {LINKS["linkedin"]}
 Portfolio: {LINKS["portfolio"]}
