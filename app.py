@@ -14,15 +14,15 @@ from datetime import date
 from pathlib import Path
 
 # ── CONFIG — update paths if needed ─────────────────────────────────────────
-EMAIL_FROM     = "yash.m.malpathak@gmail.com"
-EMAIL_PASSWORD = "ubwu kzer xoba qlde"          # Gmail App Password
+EMAIL_FROM     = "your_email"
+EMAIL_PASSWORD = "your password"          # Gmail App Password
 RESUME_FILE    = "YMM_Technical_Resume_G.pdf"  # place in same folder as app.py
 DAILY_LIMIT    = 30
 LOG_FILE       = "sent_log.json"
 
 LINKS = {
-    "linkedin":   "https://www.linkedin.com/in/yash-malpathak/",
-    "portfolio":  "https://yash-malpathak.vercel.app/",
+    "linkedin":   "your linkedin",
+    "portfolio":  "your portfolio website",
 
 }
 
